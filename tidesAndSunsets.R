@@ -1,5 +1,5 @@
 #http://rstudio.github.io/leaflet/basemaps.html
-
+# update to check github
 # xtide -l Mayaguez 
 # latitude 18.2200 Longitude -67.1600
 # Actual is setView(lng = -67.1770, lat = 18.2520, zoom = 18)
